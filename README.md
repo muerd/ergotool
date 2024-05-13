@@ -22,3 +22,5 @@ Este proyecto está actualmente en desarrollo y se actualizará continuamente pa
 Licencia
 
 Este trabajo está basado en investigaciones y desarrollos de omes-va.com y está licenciado bajo Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Puedes usar y modificar este código para fines no comerciales, siempre que des crédito a los autores originales y fuentes.
+
+Este script ha sido desarrollado con la ayuda de CHATGPT, tengalo en cuenta y considerelo, mis conocimientos de programación son muy limitados.
